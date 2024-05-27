@@ -1,0 +1,37 @@
+cotacao_dolar_hoje = 5.25
+
+valor_reais = 1000
+
+valor_convertido = valor_reais / cotacao_dolar_hoje
+
+print(valor_reais, valor_convertido)
+
+10/4
+
+km = int(input('Quantos km rodados?'  ))
+dias = int(input('Quantos dias rodados?'  ))
+
+preco = 60 * dias + 0.15 * km
+print(f'Km = {km}. Dias = {dias}.')
+print(f'Valor a ser pago: {preco}')
+18
+
+
+
+i = 1
+j = 1
+while i <= 5:
+    print (i)
+    i += 1
+
+    while j <= 10:
+     print (j)
+    j += 1
+  
+x = 1 
+  while x < 5
+    print(x)
+x += 1
+
+print('olá,mundo denovo!')
+
