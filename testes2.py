@@ -35,3 +35,5 @@ while x <= 5:
 print('git/hub e linux')
 
     
+x = 1
+while 
